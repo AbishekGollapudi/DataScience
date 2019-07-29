@@ -1,8 +1,10 @@
 # Sentiment Analysis on U.S. Airline Tweets
 
-## Dataset
+## Datasets
 
 <https://www.kaggle.com/crowdflower/twitter-airline-sentiment> 
+
+https://www.kaggle.com/rtatman/glove-global-vectors-for-word-representation
 
 Data was preprocessed to remove neutral tweets and only focus on polarizing ones (positive and negative).
 
